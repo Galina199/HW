@@ -38,7 +38,7 @@ Console.WriteLine($"Сумма равна {result}");
 
 
 
-Задача 3. Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.*/
+Задача 3. Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
 int [] CreateRandomArray( int size, int minValue, int maxValue)
 {
@@ -69,3 +69,4 @@ int [] CreateArray ( int size)
 }
  int [] array = CreateArray ( 8);
  ShowArray(array);
+*/
